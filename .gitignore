@@ -1,0 +1,12 @@
+# Copias locales: no publicar
+backups/
+*.backup.html
+index.original.html
+
+# Archivos del sistema y configuración local
+.DS_Store
+Thumbs.db
+.vscode/
+.env
+.env.*
+node_modules/
